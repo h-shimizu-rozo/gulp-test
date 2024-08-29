@@ -1,0 +1,15 @@
+.ttl {
+  font-size: 30px;
+  text-align: center;
+}
+
+.text {
+  text-align: center;
+}
+
+.content {
+  width: min(1000px, 100%);
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #000;
+}
